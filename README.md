@@ -1,5 +1,5 @@
 # Introduction
-This is a Spam Ham Detection Python script. It uses Naive Bayes Classifier to predict whether an SMS Text is a spam or a Ham. The training data set used is from Kaggle.
+This is a Spam Ham Detection Python script. It uses Naive Bayes Classifier to predict whether an SMS Text is a spam or a Ham. The training [dataset][dataset] used is from [Kaggle][kaggle].
 
 ### Tech
 
@@ -25,3 +25,5 @@ Want to contribute? Great!
    [scikit-learn]: <http://scikit-learn.org/stable/>
    [nbc]: <https://en.wikipedia.org/wiki/Naive_Bayes_classifier>
    [mp]: <http://mpl.iiitb.ac.in/?page_id=4>
+   [kaggle]: <https://www.kaggle.com/>
+   [dataset]: <https://www.kaggle.com/uciml/sms-spam-collection-dataset>
