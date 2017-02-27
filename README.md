@@ -13,6 +13,8 @@ This is a Spam Ham Detection Python script. It uses Naive Bayes Classifier to pr
 * Download ```spamham.py```
 * Run ```python spamham.py < path to test file >```
 * Or run ```python spamham.py``` and then start entering the text messages one by one when prompted.
+
+
 ### Acknowledgements
 
 * [Prof. J. Dinesh Babu][profdbj] for guiding me and giving me an opportunity to learn a lot from this task.
